@@ -49,7 +49,7 @@ Feel free to reach out if you're interested in my work!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=annaw-99&color=e0e0e0&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=annawang-99&color=e0e0e0&style=for-the-badge)
 
 <!--
 **annaw-99/annaw-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
