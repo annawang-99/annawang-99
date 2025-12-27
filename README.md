@@ -9,6 +9,7 @@ Take a look at my website [here](https://annaw99.vercel.app/)!
 - 🌱 I am passionate about learning and expanding my expertise, with a current focus on everything related to Retrieval-Augmented Generation (RAG).
 
 Feel free to reach out if you're interested in my work!
+> click [here](https://github.com/annaw-99) to view my old github profile
 
 ---
 
